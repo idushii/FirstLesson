@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="FirstLessonApp.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="theory.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
