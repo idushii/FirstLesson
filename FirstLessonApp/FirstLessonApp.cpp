@@ -18,5 +18,5 @@ int main()
     cout << "Hello World!" << endl; 
 	cout << "print text\n"; //вывод текста на экран
 	cout << "hello 2" << "\n";
-	return 0;
+	return 0; 
 }
